@@ -1,5 +1,5 @@
 # app.py
-# This is a additon funtionality.
+# This is a additon
 def add(a, b):
     return a + b
 
